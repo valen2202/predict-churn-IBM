@@ -62,4 +62,4 @@ Both **technical metrics** (ROC-AUC, PR-AUC, F1, Recall) and **business metrics*
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/Proyecto_final_grupo_H.ipynb
+jupyter notebook notebooks/predict-churn-IBM.ipynb
